@@ -1,0 +1,1 @@
+﻿Aby uruchomić projekt, należy utworzyć bazę danych o nazwie "calendar" - metoda porównywania napisów: utf8_general_ci.
